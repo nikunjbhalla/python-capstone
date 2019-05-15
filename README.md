@@ -1,1 +1,1 @@
-# python-capstone
+# python-snippets
